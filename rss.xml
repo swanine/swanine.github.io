@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>overreacted — A blog by Swanine</title>
+        <link>https://overreacted.io/</link>
+        <description>A personal blog by Swanine</description>
+        <lastBuildDate>Fri, 11 Apr 2025 15:10:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>overreacted — A blog by Swanine</title>
+            <url>https://github.com/swanine.png</url>
+            <link>https://overreacted.io/</link>
+        </image>
+        <atom:link href="https://overreacted.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[别拿“父传子、子传父”吓我了]]></title>
+            <link>https://overreacted.io/vue-reactive/</link>
+            <guid>https://overreacted.io/vue-reactive/</guid>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[献给在 props、emit、eventBus、provide/inject 之间迷失的你]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vue 的响应性系统]]></title>
+            <link>https://overreacted.io/vue-prop/</link>
+            <guid>https://overreacted.io/vue-prop/</guid>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[写给每一个被 .value 搞烦过但又离不开它的你]]></description>
+        </item>
+        <item>
+            <title><![CDATA[v-if VS v-show]]></title>
+            <link>https://overreacted.io/vifvsvshow/</link>
+            <guid>https://overreacted.io/vifvsvshow/</guid>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[很多人写 Vue 的时候都会下意识地使用 v-if 或 v-show，但你真的清楚它们的区别和适用场景吗？]]></description>
+        </item>
+    </channel>
+</rss>
